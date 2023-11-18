@@ -1,2 +1,2 @@
 # blog
-My Personal blog 😁 to be hosted at anorneto.com
+My Personal blog 😁 to be hosted at blog.anorneto.com
