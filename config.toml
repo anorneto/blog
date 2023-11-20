@@ -1,4 +1,4 @@
-baseURL = 'https://anorneto.com'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Anor Blog'
 theme = "terminal"
